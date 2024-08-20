@@ -1,5 +1,5 @@
 # Hola 👋, Soy Damián: 
- Me apasiona la tecnología y disfruto desarrollando soluciones a problemas a través de innovaciones informáticas. Me encanta explorar métodos para que  la inteligencia artificial pueda ser implementada en nuestra vida cotidiana. Cada &desafío que surge es una oportunidad para innovar y mejorar procesos y tareas. Estoy comprometido en transformar ideas en realidades que ayuden el dia a dia de la gente.<br>
+ Me apasiona la tecnología y disfruto desarrollando soluciones a problemas a través de innovaciones informáticas. Me encanta explorar métodos para que  la inteligencia artificial pueda ser implementada en nuestra vida cotidiana. Cada desafío que surge es una oportunidad para innovar y mejorar procesos y tareas. Estoy comprometido en transformar ideas en realidades que ayuden el día a día de la gente.<br>
 
 🔭 Actualmente estoy trabajando en desarrollos de microservicios en Python<br>
 🌱 Me estoy formando en Ciencias de Datos , Machine Learning e IA Aplicada<br>
