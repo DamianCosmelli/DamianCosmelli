@@ -2,7 +2,7 @@
  Me apasiona la tecnología y disfruto desarrollando soluciones a problemas a través de innovaciones informáticas. Me encanta explorar métodos para que  la inteligencia artificial pueda ser implementada en nuestra vida cotidiana. Cada desafío que surge es una oportunidad para innovar y mejorar procesos y tareas. Estoy comprometido en transformar ideas en realidades que ayuden el día a día de la gente.<br>
 
 🔭 Actualmente estoy trabajando en desarrollos de SaaS Multiproposito enfocado a PYMES que necesitan una plataforma de gestión<br>
-🌱 Me estoy formando en IA Aplicada en buenas practicas de desarrollo de software<br>
+🌱 Continuo formandome en los nuevos paradigmas de IA Aplicada en buenas practicas de desarrollo de software<br>
 
 
 
